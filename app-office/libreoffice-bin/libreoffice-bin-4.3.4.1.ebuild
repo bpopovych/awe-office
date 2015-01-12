@@ -58,8 +58,8 @@ KEYWORDS="-* ~amd64 ~x86"
 BIN_COMMON_DEPEND="
 	=app-text/libexttextcat-3.4*
 	=app-text/libmwaw-0.3*
-	app-text/poppler:0/46
-	dev-libs/boost:0/1.55.0
+	app-text/poppler:0/49
+	dev-libs/boost:0/1.56.0
 	dev-libs/icu:0/54
 	=media-gfx/graphite2-1.2*
 	media-libs/harfbuzz:0/0.9.18[icu]
